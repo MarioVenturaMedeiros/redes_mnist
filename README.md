@@ -30,8 +30,8 @@ Para rodar o projeto, siga os seguintes passos:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/MarioVenturaMedeiros/Neural-XOR.git
-    cd Neural-XOR
+    git clone https://github.com/MarioVenturaMedeiros/redes_mnist
+    cd redes_mnist
     ```
 
 2. Crie um ambiente virtual e ative-o:
